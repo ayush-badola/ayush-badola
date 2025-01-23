@@ -8,7 +8,7 @@
 
 <br>
 <br>
-<div border-style="solid" background>
+<div>
 <h2>About Me:</h2>
 <h3>
     🔭 Currently working on ICollab<br>
@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=drakula" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </div>
 
 
