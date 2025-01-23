@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ayush and I'm a Backend developer from Earth</h2>
+<h1 align="left">Hi 👋! My name is Ayush and I'm a Backend developer from Earth</h2>
 
 <br>
 
@@ -6,6 +6,17 @@
   <img src="https://github.com/ayush-badola/ayush-badola/blob/main/PG_04554.png"/>
 </div>
 
+<br>
+<br>
+<div border-style="solid" background>
+<h2>About Me:</h2>
+<h3>
+    🔭 Currently working on ICollab<br>
+    🌱 Currently learning Cytoscape.js<br>
+    💬 Ask me about JavaScript, NodeJs and MongoDb<br>
+    ⚡ Fun fact I think I'll amuse you with my speed to learn
+</h3>
+</div>
 
 <br>
 <br>
@@ -13,6 +24,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ayush-badola&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-badola&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="170" alt="languages graph"/>
 </div>
+
+<br>
+<br>
+
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=drakula" />
+</div>
+
 
 <br>
 <br>
