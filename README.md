@@ -10,8 +10,8 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-badola&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="215" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-badola&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="215" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-badola&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-badola&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="150" alt="languages graph"/>
 </div>
 
 <br>
@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img align="right" height="400" src="https://github.com/ayush-badola/ayush-badola/blob/main/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" alt="GIF"/>
+<img align="right" height="300" src="https://github.com/ayush-badola/ayush-badola/blob/main/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" alt="GIF"/>
 
 <br>
 <br>
