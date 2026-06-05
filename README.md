@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/ayush-badola/ayush-badola/blob/main/PG_04554.png"/>
+  <img src="https://github.com/ayush-badola/ayush-badola/blob/main/WhatsApp Image 2026-06-05 at 23.28.16.jpeg"/>
 </div>
 
 <br>
